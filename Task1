@@ -1,9 +1,0 @@
-#include<iostream>
-using namespacestd
-
-int main(){
-cout<<"MY NAME IS SOLA";
-
-
-}
-return 0;
