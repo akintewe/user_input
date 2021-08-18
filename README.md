@@ -1,4 +1,4 @@
-# hng_intern
+# user_input_app
 
 A new Flutter project.
 
