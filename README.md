@@ -1,6 +1,6 @@
 # user_input_app
 
-A new Flutter project.
+Task 1 which prints out my name is in the file name.cpp
 
 ## Getting Started
 
