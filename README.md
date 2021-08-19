@@ -1,5 +1,5 @@
-# user_input_app
-
+# user_input_app with c++ code that prints out my name 
+NOTE:
 Task 1 which prints out my name is in the file name.cpp
 
 ## Getting Started
